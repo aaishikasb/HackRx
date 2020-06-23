@@ -1,8 +1,8 @@
 # Team codeBlooded
 
-Official Entry of Team codeBlooded, from SRM Institute of Science and Technology, Kattankulathur, to HackRx, by Health Rx Bajaj Finserv. <br>
+Official Entry of Team codeBlooded, from SRM Institute of Science and Technology, Kattankulathur, to HackRx, by Health Rx Bajaj Finserv, that secured third position. <br>
 ![Collaborators](https://img.shields.io/badge/collaborators-4-red)
-![Status](https://img.shields.io/badge/status-under_development-yellow)
+![Status](https://img.shields.io/badge/status-complete-green)
 ![Issues](https://img.shields.io/badge/issues-0-blue)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -27,13 +27,13 @@ India as of today has entered *stage 3* and there still isn't any sign of vaccin
 
 ## About Our Product 🔧
 ### What
- We at team codeblooded, propose a Web-application which is preventive, personalized and most importantly affordable. Our web-app called, **'HopeVid'**, serves the purpose of tracking and escalation of people who might be COVID suspects based on the inputs provided by individuals. This information is provided by the user voluntarily and stays safe within our database. We do not store any essential data, as Security of the system is our priority. The WebApp provides minimalist interface aimed at users from all age groups. 
+ We at team codeBlooded, propose a Web Application which is preventive, personalized and most importantly affordable. Our Web App called, **'HopeVid'**, serves the purpose of tracking and escalation of people who might be COVID suspects based on the inputs provided by individuals. This information is provided by the user voluntarily and stays safe within our database. We do not store any essential data, as Security of the system is our priority. The WebApp provides minimalist interface aimed at users from all age groups. 
 
 With our product, we implement two chatbots, one of them is designated for a pre screening of the patient which is done before assigning a doctor, and the other a 'Mental Health' Chatbot, which is aimed to check the User's mood and provide them engaging and fun activities. 
 The second phase of the WebApp is aimed at reaching out to available doctors, booking tests and provides news information about the current state of COVID around the world. It also implements a feature of 'reporting people' using which people can report probable COVID suspects.
 There's a third separate section in which we embed reliable information from sources such as YouTube, News Sources, and Quizzes as the basic informational guide.
 
-HopeVid is expanded to a mobile application which is a WebView of our WebApplication and is built using React Native.
+HopeVid is expanded to a mobile application which is a WebView of our Web Application and is built using React Native.
 
 We also implement a 'tracking' feature for the User to track their health visually by synthesizing data in the form of vitals taken during the User's conversation with our Chatbot.
 
@@ -70,7 +70,6 @@ This process reduces unwanted hastle by reducing the time and effort that needs 
 - Modular
 - Minimalist Design
 - Reusable
-- Open APIs
 
 ## Proposed Technology Stack 💻
 
@@ -92,15 +91,17 @@ This process reduces unwanted hastle by reducing the time and effort that needs 
 
 ## Use Cases 🤝
 
-TBA
+1. Can be put to use during this pandemic to effectively monitor and help the current situation.
+2. In times of future emergencies, the application can be modified to serve its purpose of helping people.
 
 ## Future Upgrades 👀
 
-TBA
+1. Introduction of AIML Models
+2. Better UI
 
 ## Collaborators 🤖
 
-- [Aaishika S Bhattacharya](https://www.github.com/aaishikasb)
+- [Aaishika S Bhattacharya](https://www.github.com/aaishikasb), Team Lead
 - [Souharda Biswas](https://www.github.com/TheSouharda)
 - [Akash Ramjyothi](https://www.github.com/Akash-Ramjyothi)
 - [Gyanesh Samanta](https://www.github.com/Gyanesh-Samanta-123)
